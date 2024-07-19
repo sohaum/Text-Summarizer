@@ -56,4 +56,4 @@ To use the Text Summarizer, run the following command:
 ## Contact Information
 * Name: Sohaum Ghosh
 * Email: sohaumghosh@gmail.com
-* GitHub: @github.com/sohaum
+* GitHub: [@sohaum](https://github.com/sohaum)
