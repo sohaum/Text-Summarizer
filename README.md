@@ -35,3 +35,12 @@ To install the Text Summarizer, follow these steps:
    ```bash
    pip install -r requirements.txt
    
+## Usage
+To use the Text Summarizer, run the following command:
+   ```bash
+   python summarize.py --input your_text_file.txt --output summary.txt --method extractive --length 5
+
+* --input: Path to the input text file
+* --output: Path to the output summary file
+* --method: Summarization method (extractive or abstractive)
+* --length: Desired length of the summary
