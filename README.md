@@ -28,12 +28,10 @@ To install the Text Summarizer, follow these steps:
 1. Clone the repository:
    ```bash
    git clone https://github.com/your-username/text-summarizer.git
-```bash
-2. Navigate to the project directory:
-  ```bash
+2. Navigate to project directory:
+   ```bash
    cd text-summarizer
-```bash
-3. Install the required dependencies:
-  ```bash
-  pip install -r requirements.txt
- ```bash
+3. Install required dependencies:
+   ```bash
+   pip install -r requirements.txt
+   
