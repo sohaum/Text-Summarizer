@@ -54,6 +54,6 @@ To use the Text Summarizer, run the following command:
 5. Create a pull request
 
 ## Contact Information
-Name: Sohaum Ghosh
-Email: sohaumghosh@gmail.com
-GitHub: @sohaum
+* Name: Sohaum Ghosh
+* Email: sohaumghosh@gmail.com
+* GitHub: @sohaum
