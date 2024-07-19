@@ -44,3 +44,5 @@ To use the Text Summarizer, run the following command:
 * --output: Path to the output summary file
 * --method: Summarization method (extractive or abstractive)
 * --length: Desired length of the summary
+
+
