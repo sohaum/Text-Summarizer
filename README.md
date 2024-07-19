@@ -39,6 +39,7 @@ To install the Text Summarizer, follow these steps:
 To use the Text Summarizer, run the following command:
    ```bash
    python summarize.py --input your_text_file.txt --output summary.txt --method extractive --length 5
+   ```bash
 
 * --input: Path to the input text file
 * --output: Path to the output summary file
